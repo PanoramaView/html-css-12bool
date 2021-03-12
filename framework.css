@@ -10,6 +10,7 @@
 } */
 [class*="col-"]{
     float:left;
+    overflow: hidden;
 }
 
 .col-1{
